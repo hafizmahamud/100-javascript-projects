@@ -8,7 +8,7 @@ I will update the repository with projects one by one until it reach total of 10
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/hafizmahamud)
+- [@hafizmahamud](https://www.github.com/hafizmahamud)
 
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png)
